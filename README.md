@@ -1,5 +1,7 @@
 == README
 
-# Это приложение ДЕМО-АП
+# Перевод Ruby on Rails Tutorial: пример приложения
 
-[*это второе приложение при обучении RUBY*]
+Это пример приложения для
+[*Ruby on Rails Tutorial*](http://railstutorial.org/)
+by [Майкл Хартл](http://michaelhartl.com/).
